@@ -1,7 +1,10 @@
 function App() {
   return (
     <>
-      <h1>Hello Badge</h1>
+      <div>
+        <h1>This is for Extradionary Badge</h1>
+        <small>Extradionary Something</small>
+      </div>
     </>
   );
 }
