@@ -1,9 +1,10 @@
+import Pages from "./Components/Pages";
+
 function App() {
   return (
     <>
       <div>
-        <h1>This is for Extradionary Badge</h1>
-        <small>Extradionary Something</small>
+        <Pages />
       </div>
     </>
   );
